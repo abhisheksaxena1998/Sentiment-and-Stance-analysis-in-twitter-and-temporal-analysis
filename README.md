@@ -83,3 +83,9 @@ Cross-validation is a statistical method used to estimate the skill of machine l
 ### 3.10 Visualization 
 
 Please refer Visualizations folder.
+
+## 4 Results 
+
+Graphs are in Visualization folder.
+
+A peak of anti-gun feeling on the day of "shooting related incident" is observed which quickly falls to pre-event levels. More surprisingly the analysis shows a peak of pro-gun sentiment on the day of the shooting that is sustained at an elevated level for a number of days
